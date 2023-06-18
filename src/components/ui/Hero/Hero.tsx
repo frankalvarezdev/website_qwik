@@ -10,7 +10,7 @@ export default component$(() => {
                         Frank Alvarez
                     </h1>
                     <p class='text-xl'>Desarrollador Fullstack</p>
-                    <div class='flex gap-4'>
+                    <div class='flex gap-4 justify-center md:justify-start'>
                         <a
                             class='btn mt-4 inline-flex items-center gap-2'
                             href='https://www.linkedin.com/in/frankalvarezdev/'
