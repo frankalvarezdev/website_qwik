@@ -1,0 +1,6 @@
+.line {
+    height: 2px;
+    width: 100%;
+    background: linear-gradient(-45deg, #ee7752, #e73c7e, #23a6d5, #23d5ab);
+    animation: 6s ease infinite;
+}
