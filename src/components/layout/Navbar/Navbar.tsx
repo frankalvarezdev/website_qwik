@@ -7,7 +7,9 @@ export default component$(() => {
         <>
             <div class='navbar'>
                 <div class='navbar-start max-md:hidden'>
-                    <a class='navbar-item font-semibold'>Frank Alvarez</a>
+                    <a href='/' class='navbar-item font-semibold'>
+                        Frank Alvarez
+                    </a>
                 </div>
                 <div class='navbar-center font-semibold'>
                     <a class='navbar-item' href='#proyectos'>
